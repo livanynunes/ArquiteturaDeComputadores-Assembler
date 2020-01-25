@@ -1,0 +1,29 @@
+
+/* PASSO 1 - PSEUDO INSTRUÇÕES
+LC:                     contador de localização
+MOT:                    Tabela de instruções de máquinas
+POT:                    Tabela de pseudo-instruções de máquina
+EndOfFile(file)
+instruction
+ReadLine(file)
+getLabel(instruction)
+getOperation(instruction)
+getOperand(instruction)
+findTable(POT,opcode)
+label
+opcode
+operand
+entry
+ORG
+getOperandValue(operand)
+END
+EQU
+value
+lengh
+getInstructionSize(entry,operand)
+NIL
+insertTable(ST,labe,value)
+findTable(MOT,opcode) -> ??MOT e POT??
+ErrorMessage("invalid opcode",instruction)
+CloseFile(file);
+*/

@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1560215895 source:c:\users\livany nunes tavares\google drive\arquivos do pc\documentos\1 ufop\1 engenharia de computação\6º período\oac\trabalho\projetooac\main.c
+	"assembler.h"
+
+1560131817 c:\users\livany nunes tavares\google drive\arquivos do pc\documentos\1 ufop\1 engenharia de computação\6º período\oac\trabalho\projetooac\assembler.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1560216440 source:c:\users\livany nunes tavares\google drive\arquivos do pc\documentos\1 ufop\1 engenharia de computação\6º período\oac\trabalho\projetooac\assembler.c
+	"assembler.h"
+
+1561762985 source:c:\users\livany nunes tavares\google drive\arquivos do pc\documentos\1 ufop\1 engenharia de computação\6º período\oac\trabalho\assembler\assembler.c
+	"assembler.h"
+
+1561699233 c:\users\livany nunes tavares\google drive\arquivos do pc\documentos\1 ufop\1 engenharia de computação\6º período\oac\trabalho\assembler\assembler.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1561762895 source:c:\users\livany nunes tavares\google drive\arquivos do pc\documentos\1 ufop\1 engenharia de computação\6º período\oac\trabalho\assembler\main.c
+	"assembler.h"
+
